@@ -1,0 +1,14 @@
+[Unit]
+Description=Backup simples Python
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/projeto_backup
+ExecStart=/home/ubuntu/projeto_backup/env/bin/python /home/ubuntu/projeto_backup/main.py --source /home/ubuntu/dados --dest /home/ubuntu/backups --keep 7 --log /home/ubuntu/projeto_backup/backup.log
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

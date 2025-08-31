@@ -1,0 +1,3 @@
+# Projeto usa apenas biblioteca padrão — deixe em branco ou especifique versões se adicionar libs
+# Exemplo:
+# python-dotenv==1.0.0

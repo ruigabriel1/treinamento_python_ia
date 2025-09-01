@@ -8,7 +8,7 @@ Repositório com material para um treinamento prático que usa inteligência art
 # Índice
 1. [Visão geral](#visão-geral)  
 2. [Estrutura do repositório](#estrutura-do-repositório)  
-3. [Como começar — instalação rápida](#como-começar,-instalação-rápida)  
+3. [Como começar, instalação rápida](#como-começar,-instalação-rápida)  
 4. [Projeto-exemplo: `projeto_backup`](#projeto-exemplo-projeto_backup)  
 5. [Deploy como serviço (systemd) — passos rápidos](#deploy-como-serviço-systemd---passos-rápidos)  
 6. [Checklist de instalação (resumo)](#checklist-de-instalação-resumo)  

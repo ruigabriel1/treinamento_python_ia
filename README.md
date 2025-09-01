@@ -8,7 +8,7 @@ Repositório com material para um treinamento prático que usa inteligência art
 # Índice
 1. [Visão geral](#visão-geral)  
 2. [Estrutura do repositório](#estrutura-do-repositório)  
-3. [Como começar — instalação rápida](#como-começar---instalação-rápida)  
+3. [Como começar — instalação rápida](#como-começar,-instalação-rápida)  
 4. [Projeto-exemplo: `projeto_backup`](#projeto-exemplo-projeto_backup)  
 5. [Deploy como serviço (systemd) — passos rápidos](#deploy-como-serviço-systemd---passos-rápidos)  
 6. [Checklist de instalação (resumo)](#checklist-de-instalação-resumo)  
@@ -54,7 +54,7 @@ O objetivo é que um aluno leigo consiga, com orientação e uso de um assistent
 
 ---
 
-# Como começar — instalação rápida
+# Como começar, instalação rápida
 
 **Windows**
 1. Baixe Python em https://python.org e marque **Add Python to PATH** no instalador.  
